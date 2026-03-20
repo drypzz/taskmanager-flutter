@@ -10,11 +10,7 @@ O objetivo principal do projeto é aplicar os conceitos fundamentais de gerencia
 
 ---
 
-## ✨ Funcionalidades Implementadas
-
-O projeto atende a 100% dos requisitos obrigatórios e implementa diversos recursos extras de UI/UX e gerenciamento de dados.
-
-### 📌 Funcionalidades Obrigatórias
+### 📌 Funcionalidades
 
 - **Adicionar Tarefas:** Entrada de texto via `TextField` para registrar novas atividades, com limpeza automática do campo após a inclusão.
 - **Listagem de Tarefas:** Exibição dinâmica utilizando `ListView`, com tratamento de estado vazio (Empty State personalizado).

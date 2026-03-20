@@ -39,10 +39,10 @@ O projeto atende a 100% dos requisitos obrigatórios e implementa diversos recur
 
 ## 📸 Screenshots
 
-
-<div align="center">
+<div>
   <img src="/assets/empty.png" width="250" alt="Lista Vazia">
   <img src="/assets/tasks.png" width="250" alt="Com Tarefas">
+  <br />
   <img src="/assets/kanban1.png" width="250" alt="Tarefas no Kanban">
   <img src="/assets/kanban2.png" width="250" alt="Tarefas no Kanban">
 </div>
